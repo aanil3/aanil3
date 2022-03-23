@@ -9,5 +9,5 @@ My name is Abi (he/him) and I am currently a fourth year student at Western Univ
 
 Some projects I am currently working on: 
 
-- Currently working on a project with R and HTML/CSS that analyzes data from LoL games and compares various players' playstyles and effectiveness (Potentially a model to predict outcome of games eventually too!)
+- Currently working on a project with R and shiny that analyzes data from LoL games and compares various players' playstyles and effectiveness. The eventual goal is to build a model to predict outcome of games with a high success rate
 - A simple tool using AngularJS that allows users to keep track of daily tasks

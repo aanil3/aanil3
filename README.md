@@ -6,6 +6,7 @@ My name is Abi (he/him) and I am currently a fourth year student at Western Univ
 - Front End Development
 - UX/UI Design
 - Algorithm Design & Analysis
+- Software Testing
 
 Some projects I am currently working on: 
 

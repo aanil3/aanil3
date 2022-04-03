@@ -1,6 +1,6 @@
 ## Hey there, Welcome to my Github profile!
 
-My name is Abi (he/him) and I am currently a fourth year student at Western University in Computer Science. I am a front end developer with professional experience in AngularJS, TypeScript, MySQL, PHP, HTML and CSS. I am also interested in:
+Welcome to my Github profile! I am currently a fourth year student at Western University in Computer Science. I am a front end developer with professional experience in AngularJS, TypeScript, MySQL, PHP, HTML and CSS. I am also interested in:
 
 - Data Analysis
 - Front End Development

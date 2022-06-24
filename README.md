@@ -11,5 +11,5 @@ Welcome to my Github profile! I am currently a fourth year student at Western Un
 Some projects I am currently working on: 
 
 - Currently working on a project with R and shiny that analyzes data from LoL games and compares various players' playstyles and effectiveness. The eventual goal is to build a model to predict outcome of games with a high success rate
-- A simple tool using AngularJS that allows users to keep track of daily tasks
+- AngularJS app in order to keep track of daily tasks with a pomodoro timer
 - A simple webscraper in Python using beautifulsoup that scrapes several fantasy baseball websites and creates an abstract ranking system based on rankings already provided
